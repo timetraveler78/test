@@ -30,7 +30,7 @@ namespace yawTest
             double WSpeedM1, WSpeedM2, WSpeedM3;
             double WSpeedM,WSpeed, Wspeeda, WSpeedb;
             string WSPDText;
-
+string Testje;
             double RSpeed, RSpeeda, RSpeedb;
             double RSpeedM1, RSpeedM2, RSpeedM3, RSpeedM;
             string RSPDText;
