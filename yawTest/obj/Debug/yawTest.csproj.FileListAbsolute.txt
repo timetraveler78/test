@@ -1,0 +1,9 @@
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\obj\Debug\yawTest.csprojResolveAssemblyReference.cache
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\obj\Debug\yawTest.Form1.resources
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\obj\Debug\yawTest.Properties.Resources.resources
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\obj\Debug\yawTest.csproj.GenerateResource.Cache
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\bin\Debug\yawTest.exe.config
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\bin\Debug\yawTest.exe
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\bin\Debug\yawTest.pdb
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\obj\Debug\yawTest.exe
+c:\users\roy\documents\visual studio 2017\Projects\yawTest\yawTest\obj\Debug\yawTest.pdb
