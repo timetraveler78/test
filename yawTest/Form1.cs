@@ -17,7 +17,7 @@ namespace yawTest
             InitializeComponent();
         }
 
-
+branch
         int RDeg = 360;
         int WDeg = 180;
         double AWA = 360;
@@ -30,7 +30,7 @@ namespace yawTest
             double WSpeedM1, WSpeedM2, WSpeedM3;
             double WSpeedM,WSpeed, Wspeeda, WSpeedb;
             string WSPDText;
-
+string Testje;
             double RSpeed, RSpeeda, RSpeedb;
             double RSpeedM1, RSpeedM2, RSpeedM3, RSpeedM;
             string RSPDText;
